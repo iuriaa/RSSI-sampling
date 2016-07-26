@@ -1,0 +1,4 @@
+Collected over a tabletop with poses marked with pencil on the table itself.
+Contain one distance (2.0m) with 19 orientations ranging from -90 to 90 (every 10°).
+100 samples per pose. Total of 1900 samples.
+Executed in lab C069 with very little possible disturbances (alone in the lab).

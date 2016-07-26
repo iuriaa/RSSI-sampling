@@ -1,0 +1,9 @@
+Collected using a wooden table and a wooden cube to have a distance from the ground.
+The relative orientation was done by changing the orientation of the tablet and keeping the sensor fixed.
+Contains 15 distances between 0.2m and 3.0m (every 0.2m) with 19 orientations each ranging from -90 to 90 (every 10°).
+****DISCART ANY EXTRA SAMPLES****
+Samples at the pose 2.6/0° need to be discarted. They were wrongly collected while the sensor was not positioned.
+A new sample set was done on the same day. It can be found under the folder 2016-06-12_05-26-59.
+Rounding error on some distances were observed. This is a software implementation issue and does not reflect ground thruth, ignore.
+100 samples per pose. Total of 28400 samples.(minus 100 from discarted pose)
+Executed in a home environment between 1:45AM and 5:25AM to avoid uncontrolled interference by other devices in the same building.

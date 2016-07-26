@@ -1,0 +1,4 @@
+Collected over a tabletop with paper to mark the poses.
+From 0 to 3m with an interval of 0.1m and 7 orientations (-90, -60, -30, 0, 30, 60, 90).
+100 samples per pose. Total of 21000 samples.
+Executed in lab C069 with other lab users using wifi and other possible disturbances.

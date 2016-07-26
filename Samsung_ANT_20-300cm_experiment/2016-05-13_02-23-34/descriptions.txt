@@ -1,0 +1,6 @@
+Collected using a wooden table and a wooden cube to have a distance from the ground.
+The relative orientation was done by changing the orientation of the tablet and keeping the sensor fixed.
+Contains 4 distances between 0.4m and 1.0m (every 0.2m) with 19 orientations each ranging from -90 to 90 (every 10°).
+****DISCART ANY EXTRA SAMPLES**** might contain error at 1.0m/50° due to the sensor shutting down. The sensor was restarted without moving it.
+100 samples per pose. Total of 7600 samples.
+Executed in a home environment between 2:20AM and 3:20AM to avoid uncontrolled interference by other devices in the same building.
